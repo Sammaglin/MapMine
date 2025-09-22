@@ -1,6 +1,3 @@
-Perfect 👍 A detailed **README** is what makes a GitHub repo look professional.
-Here’s a **well-structured README** for your `MapMine` project:
-
 ---
 
 # 🗺️ MapMine – OSM Feature Extractor
