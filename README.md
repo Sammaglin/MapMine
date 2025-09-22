@@ -44,8 +44,10 @@ With its clean modern UI and interactive visualization, MapMine bridges the gap 
 
 # Main UI
 <img width="773" height="939" alt="Window" src="https://github.com/user-attachments/assets/aa9bbaa8-4b7f-4e15-9fcc-1862cecb3ef4" />
+
 # Feature Selection
 <img width="738" height="408" alt="Feature" src="https://github.com/user-attachments/assets/fb3a984b-9102-4538-95b8-c8fccf3eae5f" />
+
 # Map Preview
 <img width="1918" height="1015" alt="Map preview" src="https://github.com/user-attachments/assets/d5c3a2a3-f614-49d9-85ed-e94c267e2c48" />
 
