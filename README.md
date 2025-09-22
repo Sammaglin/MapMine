@@ -104,29 +104,6 @@ python src/main.py
 
 ---
 
-## 📂 Project Structure
-
-```
-MapMine/
-│── README.md
-│── requirements.txt
-│── LICENSE
-│── .gitignore
-│── mapmine.ico
-│── src/
-│    │── main.py               # Main entry point
-│    │── ui.py                 # UI layout & widgets
-│    │── map_handler.py        # Map fetching, plotting, OSM operations
-│    │── data_handler.py       # Export/Save data (GeoJSON, Shapefile)
-│    │── utils.py              # Helper functions
-│
-│── assets/
-│    │── logo.png
-│    │── demo_screenshot.png
-```
-
----
-
 ## 🧩 Roadmap
 
 * [ ] Add **custom polygon AOI selection**
